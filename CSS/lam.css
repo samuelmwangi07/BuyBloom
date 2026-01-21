@@ -1,0 +1,8 @@
+#mal{display: flex;
+    gap: 30px;
+
+}
+.permanent {
+    font-size: medium;
+    display: inline-block;  
+}
